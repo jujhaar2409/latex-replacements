@@ -7,12 +7,18 @@ The symbols available can be accessed using their LaTeX commands.
 
 ## Use on your MacOS Computer
 
+### Setting up
+
 1. Open System Preferences.app
 2. Click on `Keyboard`
 3. Switch to the `text` tab. If you have never edited this, you should see a list with a few default items
 4. Simply drag the file `latex-replacments.plist` into this list
 
 **Done!**
+
+### Personalizing
+
+You can now go to the same page(keyboard ⇒ text tab) in System Preferences.app and see the list of shortcuts. You can edit if simply by clicking on of the shortcuts and changing it.
 
 ## Use on your Windows Computer
 
