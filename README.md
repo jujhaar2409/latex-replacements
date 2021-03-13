@@ -3,7 +3,7 @@
 Sets up abbreviations for common symbols used in math.
 The symbols available can be accessed using their LaTeX commands.
 
-### Adding your own shortcutss
+## Use on your MacOS Computer
 
 1. Open System Preferences.app
 2. Click on `Keyboard`
@@ -11,6 +11,10 @@ The symbols available can be accessed using their LaTeX commands.
 4. Simply drag the file `latex-replacments.plist` into this list
 
 **Done!**
+
+## Use on your Windows Computer
+
+[check out Sanidhya's project here](https://github.com/notatyrannosaur/latex-replacements)
 
 ## Contributions
 
