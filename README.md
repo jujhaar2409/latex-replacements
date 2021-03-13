@@ -1,4 +1,6 @@
-# latex-replacements
+# latex-replacements-macos
+
+[Sanidhya's AHK latex-replacement project](https://github.com/notatyrannosaur/latex-replacements) ported to MacOS.
 
 Sets up abbreviations for common symbols used in math.
 The symbols available can be accessed using their LaTeX commands.
