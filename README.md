@@ -1,15 +1,18 @@
 # latex-replacements
+
 Sets up abbreviations for common symbols used in math.
 The symbols available can be accessed using their LaTeX commands.
 
-### Adding your own shortcuts:
-1. [Install AutoHotKey.](https://www.autohotkey.com/)
-2. Edit the latex replacements.ahk file in any text editor.
-3. Add your shortcuts in the format: `::<text to replace::<text it is replaced with>` to the end of the file.
-4. Save your script.
-5. (Optional) Right-click on your saved script and compile it to generate an exe for it.
+### Adding your own shortcutss
 
-There are a few shortcuts which have been commented out in the script, this is because their inclusion completely breaks the script.
+1. Open System Preferences.app
+2. Click on `Keyboard`
+3. Switch to the `text` tab. If you have never edited this, you should see a list with a few default items
+4. Simply drag the file `latex-replacments.plist` into this list
 
-## Contributions:
+**Done!**
+
+## Contributions
+
+Thanks to [Sanidhya's AHK latex-replacement project](https://github.com/notatyrannosaur/latex-replacements) which motivated me to implement similar functionality on MacOS(since AHK doesn't run on mac).
 Thanks [Aryaman Maithani](https://github.com/aryamanmaithani) for providing the latexshortcuts.txt file, which was modified to make this script!

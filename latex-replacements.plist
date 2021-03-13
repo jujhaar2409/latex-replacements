@@ -1,0 +1,5141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+                <plist version="1.0">
+                <array><dict>
+                    <key>phrase</key>
+                    <string>◁</string>
+                    <key>shortcut</key>
+                    <string>\lhd</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>→</string>
+                    <key>shortcut</key>
+                    <string>\to</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>↪</string>
+                    <key>shortcut</key>
+                    <string>\hookrightarrow</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>↪</string>
+                    <key>shortcut</key>
+                    <string>\into</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>↠</string>
+                    <key>shortcut</key>
+                    <string>\twoheadedrightarrow</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>↠</string>
+                    <key>shortcut</key>
+                    <string>\onto</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>↦</string>
+                    <key>shortcut</key>
+                    <string>\mapsto</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⇒</string>
+                    <key>shortcut</key>
+                    <string>\implies</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⇐</string>
+                    <key>shortcut</key>
+                    <string>\impliedby</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⇔</string>
+                    <key>shortcut</key>
+                    <string>\iff</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∀</string>
+                    <key>shortcut</key>
+                    <string>\forall</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∀</string>
+                    <key>shortcut</key>
+                    <string>`A</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∂</string>
+                    <key>shortcut</key>
+                    <string>\partial</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∂</string>
+                    <key>shortcut</key>
+                    <string>`6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∃</string>
+                    <key>shortcut</key>
+                    <string>\exists</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∃</string>
+                    <key>shortcut</key>
+                    <string>`E</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∄</string>
+                    <key>shortcut</key>
+                    <string>\not\exists</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∄</string>
+                    <key>shortcut</key>
+                    <string>\nexists</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∄</string>
+                    <key>shortcut</key>
+                    <string>\E</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∅</string>
+                    <key>shortcut</key>
+                    <string>\emptyset</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∅</string>
+                    <key>shortcut</key>
+                    <string>`0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∇</string>
+                    <key>shortcut</key>
+                    <string>\grad</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∇</string>
+                    <key>shortcut</key>
+                    <string>\nabla</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∈</string>
+                    <key>shortcut</key>
+                    <string>\in</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∉</string>
+                    <key>shortcut</key>
+                    <string>\notin</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∑</string>
+                    <key>shortcut</key>
+                    <string>\sum</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ⁿ⁺¹</string>
+                    <key>shortcut</key>
+                    <string>^np1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ⁿ⁻¹</string>
+                    <key>shortcut</key>
+                    <string>^n-1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ₙ₊₁</string>
+                    <key>shortcut</key>
+                    <string>_np1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ₙ₋₁</string>
+                    <key>shortcut</key>
+                    <string>_n-1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₊</string>
+                    <key>shortcut</key>
+                    <string>_p</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₋</string>
+                    <key>shortcut</key>
+                    <string>_-</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁺</string>
+                    <key>shortcut</key>
+                    <string>^p</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>¬</string>
+                    <key>shortcut</key>
+                    <string>\neg</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁻</string>
+                    <key>shortcut</key>
+                    <string>^-</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>±</string>
+                    <key>shortcut</key>
+                    <string>\pm</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∧</string>
+                    <key>shortcut</key>
+                    <string>\wedge</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∧</string>
+                    <key>shortcut</key>
+                    <string>\and</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∨</string>
+                    <key>shortcut</key>
+                    <string>\vee</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∨</string>
+                    <key>shortcut</key>
+                    <string>\or</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∩</string>
+                    <key>shortcut</key>
+                    <string>\cap</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∩</string>
+                    <key>shortcut</key>
+                    <string>\intersection</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∩</string>
+                    <key>shortcut</key>
+                    <string>`n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊓</string>
+                    <key>shortcut</key>
+                    <string>\sqcap</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∪</string>
+                    <key>shortcut</key>
+                    <string>\cup</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∪</string>
+                    <key>shortcut</key>
+                    <string>\union</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∪</string>
+                    <key>shortcut</key>
+                    <string>`u</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊔</string>
+                    <key>shortcut</key>
+                    <string>\sqcup</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∮</string>
+                    <key>shortcut</key>
+                    <string>\oint</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∴</string>
+                    <key>shortcut</key>
+                    <string>\therefore</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∵</string>
+                    <key>shortcut</key>
+                    <string>\because</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∵</string>
+                    <key>shortcut</key>
+                    <string>\since</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∎</string>
+                    <key>shortcut</key>
+                    <string>\qed</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∎</string>
+                    <key>shortcut</key>
+                    <string>qed</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>≅</string>
+                    <key>shortcut</key>
+                    <string>\cong</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>≡</string>
+                    <key>shortcut</key>
+                    <string>`=</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>≡</string>
+                    <key>shortcut</key>
+                    <string>\equiv</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊂</string>
+                    <key>shortcut</key>
+                    <string>`cc</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊂</string>
+                    <key>shortcut</key>
+                    <string>\subset</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊊</string>
+                    <key>shortcut</key>
+                    <string>\subsetneq</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊈</string>
+                    <key>shortcut</key>
+                    <string>\nsubseteq</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊈</string>
+                    <key>shortcut</key>
+                    <string>\nsubset</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊈</string>
+                    <key>shortcut</key>
+                    <string>\not\subset</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊃</string>
+                    <key>shortcut</key>
+                    <string>\supset</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊕</string>
+                    <key>shortcut</key>
+                    <string>\oplus</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊗</string>
+                    <key>shortcut</key>
+                    <string>\otimes</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊢</string>
+                    <key>shortcut</key>
+                    <string>\pf</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊢</string>
+                    <key>shortcut</key>
+                    <string>\entails</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊢</string>
+                    <key>shortcut</key>
+                    <string>\vdash</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊧</string>
+                    <key>shortcut</key>
+                    <string>\vDash</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊥</string>
+                    <key>shortcut</key>
+                    <string>\perp</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊥</string>
+                    <key>shortcut</key>
+                    <string>\bot</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⊤</string>
+                    <key>shortcut</key>
+                    <string>\top</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₀</string>
+                    <key>shortcut</key>
+                    <string>_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₁</string>
+                    <key>shortcut</key>
+                    <string>_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₂</string>
+                    <key>shortcut</key>
+                    <string>_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₃</string>
+                    <key>shortcut</key>
+                    <string>_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₄</string>
+                    <key>shortcut</key>
+                    <string>_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₅</string>
+                    <key>shortcut</key>
+                    <string>_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₆</string>
+                    <key>shortcut</key>
+                    <string>_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₇</string>
+                    <key>shortcut</key>
+                    <string>_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₈</string>
+                    <key>shortcut</key>
+                    <string>_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>₉</string>
+                    <key>shortcut</key>
+                    <string>_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ₘ</string>
+                    <key>shortcut</key>
+                    <string>_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ₙ</string>
+                    <key>shortcut</key>
+                    <string>_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ᵢ</string>
+                    <key>shortcut</key>
+                    <string>_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁰</string>
+                    <key>shortcut</key>
+                    <string>^0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>¹</string>
+                    <key>shortcut</key>
+                    <string>^1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>²</string>
+                    <key>shortcut</key>
+                    <string>^2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>³</string>
+                    <key>shortcut</key>
+                    <string>^3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁴</string>
+                    <key>shortcut</key>
+                    <string>^4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁵</string>
+                    <key>shortcut</key>
+                    <string>^5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁶</string>
+                    <key>shortcut</key>
+                    <string>^6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁷</string>
+                    <key>shortcut</key>
+                    <string>^7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁸</string>
+                    <key>shortcut</key>
+                    <string>^8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⁹</string>
+                    <key>shortcut</key>
+                    <string>^9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ⁿ</string>
+                    <key>shortcut</key>
+                    <string>^n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ᵐ</string>
+                    <key>shortcut</key>
+                    <string>^m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ð</string>
+                    <key>shortcut</key>
+                    <string>\eth</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>𝕜</string>
+                    <key>shortcut</key>
+                    <string>\Bbbk</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℕ</string>
+                    <key>shortcut</key>
+                    <string>\BbbN</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℚ</string>
+                    <key>shortcut</key>
+                    <string>\BbbQ</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℤ</string>
+                    <key>shortcut</key>
+                    <string>\BbbZ</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℝ</string>
+                    <key>shortcut</key>
+                    <string>\BbbR</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℂ</string>
+                    <key>shortcut</key>
+                    <string>\BbbC</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>𝔽</string>
+                    <key>shortcut</key>
+                    <string>\BbbF</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>𝕜</string>
+                    <key>shortcut</key>
+                    <string>~k</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℕ</string>
+                    <key>shortcut</key>
+                    <string>~N</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℚ</string>
+                    <key>shortcut</key>
+                    <string>~Q</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℤ</string>
+                    <key>shortcut</key>
+                    <string>~Z</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℝ</string>
+                    <key>shortcut</key>
+                    <string>~R</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℂ</string>
+                    <key>shortcut</key>
+                    <string>~C</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>𝔽</string>
+                    <key>shortcut</key>
+                    <string>~F</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>𝔽ᵐ</string>
+                    <key>shortcut</key>
+                    <string>~Fm</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>𝔽ⁿ</string>
+                    <key>shortcut</key>
+                    <string>~Fn</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℂ²</string>
+                    <key>shortcut</key>
+                    <string>~C2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℂ³</string>
+                    <key>shortcut</key>
+                    <string>~C3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℝ²</string>
+                    <key>shortcut</key>
+                    <string>~R2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℝ³</string>
+                    <key>shortcut</key>
+                    <string>~R3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℝᵐ</string>
+                    <key>shortcut</key>
+                    <string>~Rm</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ℝⁿ</string>
+                    <key>shortcut</key>
+                    <string>~Rn</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ⓧ</string>
+                    <key>shortcut</key>
+                    <string>\x</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>α</string>
+                    <key>shortcut</key>
+                    <string>\alpha</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>β</string>
+                    <key>shortcut</key>
+                    <string>\beta</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>γ</string>
+                    <key>shortcut</key>
+                    <string>\gamma</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>δ</string>
+                    <key>shortcut</key>
+                    <string>\delta</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ε</string>
+                    <key>shortcut</key>
+                    <string>\epsilon</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ζ</string>
+                    <key>shortcut</key>
+                    <string>\zeta</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>η</string>
+                    <key>shortcut</key>
+                    <string>\eta</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>θ</string>
+                    <key>shortcut</key>
+                    <string>\theta</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ι</string>
+                    <key>shortcut</key>
+                    <string>\iota</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>κ</string>
+                    <key>shortcut</key>
+                    <string>\kappa</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>λ</string>
+                    <key>shortcut</key>
+                    <string>\lambda</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>μ</string>
+                    <key>shortcut</key>
+                    <string>\mu</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ν</string>
+                    <key>shortcut</key>
+                    <string>\nu</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ξ</string>
+                    <key>shortcut</key>
+                    <string>\xi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>π</string>
+                    <key>shortcut</key>
+                    <string>\pi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ρ</string>
+                    <key>shortcut</key>
+                    <string>\rho</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>σ</string>
+                    <key>shortcut</key>
+                    <string>\sigma</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ς</string>
+                    <key>shortcut</key>
+                    <string>\varsigma</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ς</string>
+                    <key>shortcut</key>
+                    <string>\sigma*</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>τ</string>
+                    <key>shortcut</key>
+                    <string>\tau</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>φ</string>
+                    <key>shortcut</key>
+                    <string>\phi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>χ</string>
+                    <key>shortcut</key>
+                    <string>\chi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ψ</string>
+                    <key>shortcut</key>
+                    <string>\psi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ω</string>
+                    <key>shortcut</key>
+                    <string>\omega</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>α</string>
+                    <key>shortcut</key>
+                    <string>`a</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>β</string>
+                    <key>shortcut</key>
+                    <string>`b</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>γ</string>
+                    <key>shortcut</key>
+                    <string>`g</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>δ</string>
+                    <key>shortcut</key>
+                    <string>`d</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ε</string>
+                    <key>shortcut</key>
+                    <string>`e</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ι</string>
+                    <key>shortcut</key>
+                    <string>`i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>μ</string>
+                    <key>shortcut</key>
+                    <string>`m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ρ</string>
+                    <key>shortcut</key>
+                    <string>`r</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>σ</string>
+                    <key>shortcut</key>
+                    <string>`s</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>τ</string>
+                    <key>shortcut</key>
+                    <string>`t</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ω</string>
+                    <key>shortcut</key>
+                    <string>`w</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>φ</string>
+                    <key>shortcut</key>
+                    <string>`f</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>ε-δ</string>
+                    <key>shortcut</key>
+                    <string>`ed</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Γ</string>
+                    <key>shortcut</key>
+                    <string>\Gamma</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Δ</string>
+                    <key>shortcut</key>
+                    <string>\Delta</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Θ</string>
+                    <key>shortcut</key>
+                    <string>\Theta</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Λ</string>
+                    <key>shortcut</key>
+                    <string>\Lambda</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Ξ</string>
+                    <key>shortcut</key>
+                    <string>\Xi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Π</string>
+                    <key>shortcut</key>
+                    <string>\Pi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Σ</string>
+                    <key>shortcut</key>
+                    <string>\Sigma</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Φ</string>
+                    <key>shortcut</key>
+                    <string>\Phi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Ψ</string>
+                    <key>shortcut</key>
+                    <string>\Psi</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Ω</string>
+                    <key>shortcut</key>
+                    <string>\Omega</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∫</string>
+                    <key>shortcut</key>
+                    <string>\int</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∫∫</string>
+                    <key>shortcut</key>
+                    <string>\iint</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∫∫∫</string>
+                    <key>shortcut</key>
+                    <string>\iiint</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∫( ͡° ͜ʖ ͡°)dx</string>
+                    <key>shortcut</key>
+                    <string>len</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>∫( ͡° ͜ʖ ͡°)dⓧ</string>
+                    <key>shortcut</key>
+                    <string>lenx</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₀</string>
+                    <key>shortcut</key>
+                    <string>a_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₀</string>
+                    <key>shortcut</key>
+                    <string>b_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₀</string>
+                    <key>shortcut</key>
+                    <string>c_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₀</string>
+                    <key>shortcut</key>
+                    <string>d_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₀</string>
+                    <key>shortcut</key>
+                    <string>e_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₀</string>
+                    <key>shortcut</key>
+                    <string>f_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₀</string>
+                    <key>shortcut</key>
+                    <string>g_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₀</string>
+                    <key>shortcut</key>
+                    <string>h_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₀</string>
+                    <key>shortcut</key>
+                    <string>i_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₀</string>
+                    <key>shortcut</key>
+                    <string>j_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₀</string>
+                    <key>shortcut</key>
+                    <string>k_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₀</string>
+                    <key>shortcut</key>
+                    <string>l_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₀</string>
+                    <key>shortcut</key>
+                    <string>m_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₀</string>
+                    <key>shortcut</key>
+                    <string>n_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₀</string>
+                    <key>shortcut</key>
+                    <string>o_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₀</string>
+                    <key>shortcut</key>
+                    <string>p_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₀</string>
+                    <key>shortcut</key>
+                    <string>q_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₀</string>
+                    <key>shortcut</key>
+                    <string>r_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₀</string>
+                    <key>shortcut</key>
+                    <string>s_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₀</string>
+                    <key>shortcut</key>
+                    <string>t_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₀</string>
+                    <key>shortcut</key>
+                    <string>u_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₀</string>
+                    <key>shortcut</key>
+                    <string>v_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₀</string>
+                    <key>shortcut</key>
+                    <string>w_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₀</string>
+                    <key>shortcut</key>
+                    <string>x_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₀</string>
+                    <key>shortcut</key>
+                    <string>y_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₀</string>
+                    <key>shortcut</key>
+                    <string>z_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₀</string>
+                    <key>shortcut</key>
+                    <string>A_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₀</string>
+                    <key>shortcut</key>
+                    <string>B_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₀</string>
+                    <key>shortcut</key>
+                    <string>C_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₀</string>
+                    <key>shortcut</key>
+                    <string>D_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₀</string>
+                    <key>shortcut</key>
+                    <string>E_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₀</string>
+                    <key>shortcut</key>
+                    <string>F_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₀</string>
+                    <key>shortcut</key>
+                    <string>G_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₀</string>
+                    <key>shortcut</key>
+                    <string>H_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₀</string>
+                    <key>shortcut</key>
+                    <string>I_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₀</string>
+                    <key>shortcut</key>
+                    <string>J_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₀</string>
+                    <key>shortcut</key>
+                    <string>K_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₀</string>
+                    <key>shortcut</key>
+                    <string>L_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₀</string>
+                    <key>shortcut</key>
+                    <string>M_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₀</string>
+                    <key>shortcut</key>
+                    <string>N_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₀</string>
+                    <key>shortcut</key>
+                    <string>O_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₀</string>
+                    <key>shortcut</key>
+                    <string>P_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₀</string>
+                    <key>shortcut</key>
+                    <string>Q_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₀</string>
+                    <key>shortcut</key>
+                    <string>R_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₀</string>
+                    <key>shortcut</key>
+                    <string>S_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₀</string>
+                    <key>shortcut</key>
+                    <string>T_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₀</string>
+                    <key>shortcut</key>
+                    <string>U_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₀</string>
+                    <key>shortcut</key>
+                    <string>V_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₀</string>
+                    <key>shortcut</key>
+                    <string>W_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₀</string>
+                    <key>shortcut</key>
+                    <string>X_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₀</string>
+                    <key>shortcut</key>
+                    <string>Y_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₀</string>
+                    <key>shortcut</key>
+                    <string>Z_0</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₁</string>
+                    <key>shortcut</key>
+                    <string>a_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₁</string>
+                    <key>shortcut</key>
+                    <string>b_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₁</string>
+                    <key>shortcut</key>
+                    <string>c_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₁</string>
+                    <key>shortcut</key>
+                    <string>d_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₁</string>
+                    <key>shortcut</key>
+                    <string>e_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₁</string>
+                    <key>shortcut</key>
+                    <string>f_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₁</string>
+                    <key>shortcut</key>
+                    <string>g_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₁</string>
+                    <key>shortcut</key>
+                    <string>h_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₁</string>
+                    <key>shortcut</key>
+                    <string>i_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₁</string>
+                    <key>shortcut</key>
+                    <string>j_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₁</string>
+                    <key>shortcut</key>
+                    <string>k_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₁</string>
+                    <key>shortcut</key>
+                    <string>l_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₁</string>
+                    <key>shortcut</key>
+                    <string>m_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₁</string>
+                    <key>shortcut</key>
+                    <string>n_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₁</string>
+                    <key>shortcut</key>
+                    <string>o_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₁</string>
+                    <key>shortcut</key>
+                    <string>p_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₁</string>
+                    <key>shortcut</key>
+                    <string>q_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₁</string>
+                    <key>shortcut</key>
+                    <string>r_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₁</string>
+                    <key>shortcut</key>
+                    <string>s_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₁</string>
+                    <key>shortcut</key>
+                    <string>t_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₁</string>
+                    <key>shortcut</key>
+                    <string>u_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₁</string>
+                    <key>shortcut</key>
+                    <string>v_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₁</string>
+                    <key>shortcut</key>
+                    <string>w_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₁</string>
+                    <key>shortcut</key>
+                    <string>x_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₁</string>
+                    <key>shortcut</key>
+                    <string>y_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₁</string>
+                    <key>shortcut</key>
+                    <string>z_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₁</string>
+                    <key>shortcut</key>
+                    <string>A_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₁</string>
+                    <key>shortcut</key>
+                    <string>B_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₁</string>
+                    <key>shortcut</key>
+                    <string>C_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₁</string>
+                    <key>shortcut</key>
+                    <string>D_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₁</string>
+                    <key>shortcut</key>
+                    <string>E_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₁</string>
+                    <key>shortcut</key>
+                    <string>F_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₁</string>
+                    <key>shortcut</key>
+                    <string>G_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₁</string>
+                    <key>shortcut</key>
+                    <string>H_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₁</string>
+                    <key>shortcut</key>
+                    <string>I_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₁</string>
+                    <key>shortcut</key>
+                    <string>J_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₁</string>
+                    <key>shortcut</key>
+                    <string>K_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₁</string>
+                    <key>shortcut</key>
+                    <string>L_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₁</string>
+                    <key>shortcut</key>
+                    <string>M_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₁</string>
+                    <key>shortcut</key>
+                    <string>N_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₁</string>
+                    <key>shortcut</key>
+                    <string>O_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₁</string>
+                    <key>shortcut</key>
+                    <string>P_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₁</string>
+                    <key>shortcut</key>
+                    <string>Q_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₁</string>
+                    <key>shortcut</key>
+                    <string>R_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₁</string>
+                    <key>shortcut</key>
+                    <string>S_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₁</string>
+                    <key>shortcut</key>
+                    <string>T_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₁</string>
+                    <key>shortcut</key>
+                    <string>U_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₁</string>
+                    <key>shortcut</key>
+                    <string>V_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₁</string>
+                    <key>shortcut</key>
+                    <string>W_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₁</string>
+                    <key>shortcut</key>
+                    <string>X_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₁</string>
+                    <key>shortcut</key>
+                    <string>Y_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₁</string>
+                    <key>shortcut</key>
+                    <string>Z_1</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₂</string>
+                    <key>shortcut</key>
+                    <string>a_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₂</string>
+                    <key>shortcut</key>
+                    <string>b_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₂</string>
+                    <key>shortcut</key>
+                    <string>c_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₂</string>
+                    <key>shortcut</key>
+                    <string>d_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₂</string>
+                    <key>shortcut</key>
+                    <string>e_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₂</string>
+                    <key>shortcut</key>
+                    <string>f_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₂</string>
+                    <key>shortcut</key>
+                    <string>g_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₂</string>
+                    <key>shortcut</key>
+                    <string>h_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₂</string>
+                    <key>shortcut</key>
+                    <string>i_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₂</string>
+                    <key>shortcut</key>
+                    <string>j_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₂</string>
+                    <key>shortcut</key>
+                    <string>k_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₂</string>
+                    <key>shortcut</key>
+                    <string>l_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₂</string>
+                    <key>shortcut</key>
+                    <string>m_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₂</string>
+                    <key>shortcut</key>
+                    <string>n_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₂</string>
+                    <key>shortcut</key>
+                    <string>o_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₂</string>
+                    <key>shortcut</key>
+                    <string>p_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₂</string>
+                    <key>shortcut</key>
+                    <string>q_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₂</string>
+                    <key>shortcut</key>
+                    <string>r_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₂</string>
+                    <key>shortcut</key>
+                    <string>s_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₂</string>
+                    <key>shortcut</key>
+                    <string>t_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₂</string>
+                    <key>shortcut</key>
+                    <string>u_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₂</string>
+                    <key>shortcut</key>
+                    <string>v_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₂</string>
+                    <key>shortcut</key>
+                    <string>w_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₂</string>
+                    <key>shortcut</key>
+                    <string>x_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₂</string>
+                    <key>shortcut</key>
+                    <string>y_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₂</string>
+                    <key>shortcut</key>
+                    <string>z_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₂</string>
+                    <key>shortcut</key>
+                    <string>A_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₂</string>
+                    <key>shortcut</key>
+                    <string>B_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₂</string>
+                    <key>shortcut</key>
+                    <string>C_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₂</string>
+                    <key>shortcut</key>
+                    <string>D_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₂</string>
+                    <key>shortcut</key>
+                    <string>E_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₂</string>
+                    <key>shortcut</key>
+                    <string>F_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₂</string>
+                    <key>shortcut</key>
+                    <string>G_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₂</string>
+                    <key>shortcut</key>
+                    <string>H_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₂</string>
+                    <key>shortcut</key>
+                    <string>I_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₂</string>
+                    <key>shortcut</key>
+                    <string>J_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₂</string>
+                    <key>shortcut</key>
+                    <string>K_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₂</string>
+                    <key>shortcut</key>
+                    <string>L_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₂</string>
+                    <key>shortcut</key>
+                    <string>M_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₂</string>
+                    <key>shortcut</key>
+                    <string>N_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₂</string>
+                    <key>shortcut</key>
+                    <string>O_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₂</string>
+                    <key>shortcut</key>
+                    <string>P_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₂</string>
+                    <key>shortcut</key>
+                    <string>Q_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₂</string>
+                    <key>shortcut</key>
+                    <string>R_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₂</string>
+                    <key>shortcut</key>
+                    <string>S_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₂</string>
+                    <key>shortcut</key>
+                    <string>T_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₂</string>
+                    <key>shortcut</key>
+                    <string>U_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₂</string>
+                    <key>shortcut</key>
+                    <string>V_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₂</string>
+                    <key>shortcut</key>
+                    <string>W_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₂</string>
+                    <key>shortcut</key>
+                    <string>X_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₂</string>
+                    <key>shortcut</key>
+                    <string>Y_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₂</string>
+                    <key>shortcut</key>
+                    <string>Z_2</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₃</string>
+                    <key>shortcut</key>
+                    <string>a_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₃</string>
+                    <key>shortcut</key>
+                    <string>b_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₃</string>
+                    <key>shortcut</key>
+                    <string>c_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₃</string>
+                    <key>shortcut</key>
+                    <string>d_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₃</string>
+                    <key>shortcut</key>
+                    <string>e_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₃</string>
+                    <key>shortcut</key>
+                    <string>f_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₃</string>
+                    <key>shortcut</key>
+                    <string>g_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₃</string>
+                    <key>shortcut</key>
+                    <string>h_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₃</string>
+                    <key>shortcut</key>
+                    <string>i_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₃</string>
+                    <key>shortcut</key>
+                    <string>j_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₃</string>
+                    <key>shortcut</key>
+                    <string>k_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₃</string>
+                    <key>shortcut</key>
+                    <string>l_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₃</string>
+                    <key>shortcut</key>
+                    <string>m_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₃</string>
+                    <key>shortcut</key>
+                    <string>n_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₃</string>
+                    <key>shortcut</key>
+                    <string>o_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₃</string>
+                    <key>shortcut</key>
+                    <string>p_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₃</string>
+                    <key>shortcut</key>
+                    <string>q_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₃</string>
+                    <key>shortcut</key>
+                    <string>r_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₃</string>
+                    <key>shortcut</key>
+                    <string>s_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₃</string>
+                    <key>shortcut</key>
+                    <string>t_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₃</string>
+                    <key>shortcut</key>
+                    <string>u_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₃</string>
+                    <key>shortcut</key>
+                    <string>v_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₃</string>
+                    <key>shortcut</key>
+                    <string>w_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₃</string>
+                    <key>shortcut</key>
+                    <string>x_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₃</string>
+                    <key>shortcut</key>
+                    <string>y_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₃</string>
+                    <key>shortcut</key>
+                    <string>z_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₃</string>
+                    <key>shortcut</key>
+                    <string>A_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₃</string>
+                    <key>shortcut</key>
+                    <string>B_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₃</string>
+                    <key>shortcut</key>
+                    <string>C_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₃</string>
+                    <key>shortcut</key>
+                    <string>D_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₃</string>
+                    <key>shortcut</key>
+                    <string>E_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₃</string>
+                    <key>shortcut</key>
+                    <string>F_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₃</string>
+                    <key>shortcut</key>
+                    <string>G_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₃</string>
+                    <key>shortcut</key>
+                    <string>H_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₃</string>
+                    <key>shortcut</key>
+                    <string>I_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₃</string>
+                    <key>shortcut</key>
+                    <string>J_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₃</string>
+                    <key>shortcut</key>
+                    <string>K_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₃</string>
+                    <key>shortcut</key>
+                    <string>L_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₃</string>
+                    <key>shortcut</key>
+                    <string>M_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₃</string>
+                    <key>shortcut</key>
+                    <string>N_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₃</string>
+                    <key>shortcut</key>
+                    <string>O_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₃</string>
+                    <key>shortcut</key>
+                    <string>P_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₃</string>
+                    <key>shortcut</key>
+                    <string>Q_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₃</string>
+                    <key>shortcut</key>
+                    <string>R_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₃</string>
+                    <key>shortcut</key>
+                    <string>S_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₃</string>
+                    <key>shortcut</key>
+                    <string>T_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₃</string>
+                    <key>shortcut</key>
+                    <string>U_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₃</string>
+                    <key>shortcut</key>
+                    <string>V_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₃</string>
+                    <key>shortcut</key>
+                    <string>W_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₃</string>
+                    <key>shortcut</key>
+                    <string>X_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₃</string>
+                    <key>shortcut</key>
+                    <string>Y_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₃</string>
+                    <key>shortcut</key>
+                    <string>Z_3</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₄</string>
+                    <key>shortcut</key>
+                    <string>a_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₄</string>
+                    <key>shortcut</key>
+                    <string>b_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₄</string>
+                    <key>shortcut</key>
+                    <string>c_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₄</string>
+                    <key>shortcut</key>
+                    <string>d_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₄</string>
+                    <key>shortcut</key>
+                    <string>e_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₄</string>
+                    <key>shortcut</key>
+                    <string>f_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₄</string>
+                    <key>shortcut</key>
+                    <string>g_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₄</string>
+                    <key>shortcut</key>
+                    <string>h_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₄</string>
+                    <key>shortcut</key>
+                    <string>i_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₄</string>
+                    <key>shortcut</key>
+                    <string>j_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₄</string>
+                    <key>shortcut</key>
+                    <string>k_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₄</string>
+                    <key>shortcut</key>
+                    <string>l_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₄</string>
+                    <key>shortcut</key>
+                    <string>m_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₄</string>
+                    <key>shortcut</key>
+                    <string>n_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₄</string>
+                    <key>shortcut</key>
+                    <string>o_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₄</string>
+                    <key>shortcut</key>
+                    <string>p_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₄</string>
+                    <key>shortcut</key>
+                    <string>q_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₄</string>
+                    <key>shortcut</key>
+                    <string>r_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₄</string>
+                    <key>shortcut</key>
+                    <string>s_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₄</string>
+                    <key>shortcut</key>
+                    <string>t_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₄</string>
+                    <key>shortcut</key>
+                    <string>u_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₄</string>
+                    <key>shortcut</key>
+                    <string>v_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₄</string>
+                    <key>shortcut</key>
+                    <string>w_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₄</string>
+                    <key>shortcut</key>
+                    <string>x_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₄</string>
+                    <key>shortcut</key>
+                    <string>y_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₄</string>
+                    <key>shortcut</key>
+                    <string>z_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₄</string>
+                    <key>shortcut</key>
+                    <string>A_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₄</string>
+                    <key>shortcut</key>
+                    <string>B_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₄</string>
+                    <key>shortcut</key>
+                    <string>C_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₄</string>
+                    <key>shortcut</key>
+                    <string>D_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₄</string>
+                    <key>shortcut</key>
+                    <string>E_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₄</string>
+                    <key>shortcut</key>
+                    <string>F_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₄</string>
+                    <key>shortcut</key>
+                    <string>G_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₄</string>
+                    <key>shortcut</key>
+                    <string>H_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₄</string>
+                    <key>shortcut</key>
+                    <string>I_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₄</string>
+                    <key>shortcut</key>
+                    <string>J_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₄</string>
+                    <key>shortcut</key>
+                    <string>K_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₄</string>
+                    <key>shortcut</key>
+                    <string>L_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₄</string>
+                    <key>shortcut</key>
+                    <string>M_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₄</string>
+                    <key>shortcut</key>
+                    <string>N_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₄</string>
+                    <key>shortcut</key>
+                    <string>O_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₄</string>
+                    <key>shortcut</key>
+                    <string>P_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₄</string>
+                    <key>shortcut</key>
+                    <string>Q_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₄</string>
+                    <key>shortcut</key>
+                    <string>R_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₄</string>
+                    <key>shortcut</key>
+                    <string>S_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₄</string>
+                    <key>shortcut</key>
+                    <string>T_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₄</string>
+                    <key>shortcut</key>
+                    <string>U_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₄</string>
+                    <key>shortcut</key>
+                    <string>V_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₄</string>
+                    <key>shortcut</key>
+                    <string>W_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₄</string>
+                    <key>shortcut</key>
+                    <string>X_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₄</string>
+                    <key>shortcut</key>
+                    <string>Y_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₄</string>
+                    <key>shortcut</key>
+                    <string>Z_4</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₅</string>
+                    <key>shortcut</key>
+                    <string>a_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₅</string>
+                    <key>shortcut</key>
+                    <string>b_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₅</string>
+                    <key>shortcut</key>
+                    <string>c_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₅</string>
+                    <key>shortcut</key>
+                    <string>d_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₅</string>
+                    <key>shortcut</key>
+                    <string>e_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₅</string>
+                    <key>shortcut</key>
+                    <string>f_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₅</string>
+                    <key>shortcut</key>
+                    <string>g_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₅</string>
+                    <key>shortcut</key>
+                    <string>h_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₅</string>
+                    <key>shortcut</key>
+                    <string>i_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₅</string>
+                    <key>shortcut</key>
+                    <string>j_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₅</string>
+                    <key>shortcut</key>
+                    <string>k_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₅</string>
+                    <key>shortcut</key>
+                    <string>l_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₅</string>
+                    <key>shortcut</key>
+                    <string>m_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₅</string>
+                    <key>shortcut</key>
+                    <string>n_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₅</string>
+                    <key>shortcut</key>
+                    <string>o_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₅</string>
+                    <key>shortcut</key>
+                    <string>p_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₅</string>
+                    <key>shortcut</key>
+                    <string>q_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₅</string>
+                    <key>shortcut</key>
+                    <string>r_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₅</string>
+                    <key>shortcut</key>
+                    <string>s_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₅</string>
+                    <key>shortcut</key>
+                    <string>t_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₅</string>
+                    <key>shortcut</key>
+                    <string>u_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₅</string>
+                    <key>shortcut</key>
+                    <string>v_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₅</string>
+                    <key>shortcut</key>
+                    <string>w_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₅</string>
+                    <key>shortcut</key>
+                    <string>x_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₅</string>
+                    <key>shortcut</key>
+                    <string>y_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₅</string>
+                    <key>shortcut</key>
+                    <string>z_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₅</string>
+                    <key>shortcut</key>
+                    <string>A_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₅</string>
+                    <key>shortcut</key>
+                    <string>B_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₅</string>
+                    <key>shortcut</key>
+                    <string>C_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₅</string>
+                    <key>shortcut</key>
+                    <string>D_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₅</string>
+                    <key>shortcut</key>
+                    <string>E_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₅</string>
+                    <key>shortcut</key>
+                    <string>F_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₅</string>
+                    <key>shortcut</key>
+                    <string>G_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₅</string>
+                    <key>shortcut</key>
+                    <string>H_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₅</string>
+                    <key>shortcut</key>
+                    <string>I_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₅</string>
+                    <key>shortcut</key>
+                    <string>J_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₅</string>
+                    <key>shortcut</key>
+                    <string>K_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₅</string>
+                    <key>shortcut</key>
+                    <string>L_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₅</string>
+                    <key>shortcut</key>
+                    <string>M_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₅</string>
+                    <key>shortcut</key>
+                    <string>N_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₅</string>
+                    <key>shortcut</key>
+                    <string>O_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₅</string>
+                    <key>shortcut</key>
+                    <string>P_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₅</string>
+                    <key>shortcut</key>
+                    <string>Q_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₅</string>
+                    <key>shortcut</key>
+                    <string>R_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₅</string>
+                    <key>shortcut</key>
+                    <string>S_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₅</string>
+                    <key>shortcut</key>
+                    <string>T_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₅</string>
+                    <key>shortcut</key>
+                    <string>U_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₅</string>
+                    <key>shortcut</key>
+                    <string>V_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₅</string>
+                    <key>shortcut</key>
+                    <string>W_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₅</string>
+                    <key>shortcut</key>
+                    <string>X_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₅</string>
+                    <key>shortcut</key>
+                    <string>Y_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₅</string>
+                    <key>shortcut</key>
+                    <string>Z_5</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₆</string>
+                    <key>shortcut</key>
+                    <string>a_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₆</string>
+                    <key>shortcut</key>
+                    <string>b_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₆</string>
+                    <key>shortcut</key>
+                    <string>c_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₆</string>
+                    <key>shortcut</key>
+                    <string>d_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₆</string>
+                    <key>shortcut</key>
+                    <string>e_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₆</string>
+                    <key>shortcut</key>
+                    <string>f_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₆</string>
+                    <key>shortcut</key>
+                    <string>g_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₆</string>
+                    <key>shortcut</key>
+                    <string>h_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₆</string>
+                    <key>shortcut</key>
+                    <string>i_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₆</string>
+                    <key>shortcut</key>
+                    <string>j_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₆</string>
+                    <key>shortcut</key>
+                    <string>k_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₆</string>
+                    <key>shortcut</key>
+                    <string>l_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₆</string>
+                    <key>shortcut</key>
+                    <string>m_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₆</string>
+                    <key>shortcut</key>
+                    <string>n_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₆</string>
+                    <key>shortcut</key>
+                    <string>o_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₆</string>
+                    <key>shortcut</key>
+                    <string>p_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₆</string>
+                    <key>shortcut</key>
+                    <string>q_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₆</string>
+                    <key>shortcut</key>
+                    <string>r_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₆</string>
+                    <key>shortcut</key>
+                    <string>s_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₆</string>
+                    <key>shortcut</key>
+                    <string>t_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₆</string>
+                    <key>shortcut</key>
+                    <string>u_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₆</string>
+                    <key>shortcut</key>
+                    <string>v_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₆</string>
+                    <key>shortcut</key>
+                    <string>w_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₆</string>
+                    <key>shortcut</key>
+                    <string>x_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₆</string>
+                    <key>shortcut</key>
+                    <string>y_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₆</string>
+                    <key>shortcut</key>
+                    <string>z_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₆</string>
+                    <key>shortcut</key>
+                    <string>A_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₆</string>
+                    <key>shortcut</key>
+                    <string>B_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₆</string>
+                    <key>shortcut</key>
+                    <string>C_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₆</string>
+                    <key>shortcut</key>
+                    <string>D_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₆</string>
+                    <key>shortcut</key>
+                    <string>E_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₆</string>
+                    <key>shortcut</key>
+                    <string>F_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₆</string>
+                    <key>shortcut</key>
+                    <string>G_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₆</string>
+                    <key>shortcut</key>
+                    <string>H_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₆</string>
+                    <key>shortcut</key>
+                    <string>I_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₆</string>
+                    <key>shortcut</key>
+                    <string>J_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₆</string>
+                    <key>shortcut</key>
+                    <string>K_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₆</string>
+                    <key>shortcut</key>
+                    <string>L_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₆</string>
+                    <key>shortcut</key>
+                    <string>M_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₆</string>
+                    <key>shortcut</key>
+                    <string>N_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₆</string>
+                    <key>shortcut</key>
+                    <string>O_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₆</string>
+                    <key>shortcut</key>
+                    <string>P_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₆</string>
+                    <key>shortcut</key>
+                    <string>Q_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₆</string>
+                    <key>shortcut</key>
+                    <string>R_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₆</string>
+                    <key>shortcut</key>
+                    <string>S_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₆</string>
+                    <key>shortcut</key>
+                    <string>T_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₆</string>
+                    <key>shortcut</key>
+                    <string>U_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₆</string>
+                    <key>shortcut</key>
+                    <string>V_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₆</string>
+                    <key>shortcut</key>
+                    <string>W_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₆</string>
+                    <key>shortcut</key>
+                    <string>X_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₆</string>
+                    <key>shortcut</key>
+                    <string>Y_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₆</string>
+                    <key>shortcut</key>
+                    <string>Z_6</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₇</string>
+                    <key>shortcut</key>
+                    <string>a_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₇</string>
+                    <key>shortcut</key>
+                    <string>b_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₇</string>
+                    <key>shortcut</key>
+                    <string>c_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₇</string>
+                    <key>shortcut</key>
+                    <string>d_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₇</string>
+                    <key>shortcut</key>
+                    <string>e_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₇</string>
+                    <key>shortcut</key>
+                    <string>f_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₇</string>
+                    <key>shortcut</key>
+                    <string>g_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₇</string>
+                    <key>shortcut</key>
+                    <string>h_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₇</string>
+                    <key>shortcut</key>
+                    <string>i_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₇</string>
+                    <key>shortcut</key>
+                    <string>j_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₇</string>
+                    <key>shortcut</key>
+                    <string>k_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₇</string>
+                    <key>shortcut</key>
+                    <string>l_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₇</string>
+                    <key>shortcut</key>
+                    <string>m_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₇</string>
+                    <key>shortcut</key>
+                    <string>n_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₇</string>
+                    <key>shortcut</key>
+                    <string>o_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₇</string>
+                    <key>shortcut</key>
+                    <string>p_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₇</string>
+                    <key>shortcut</key>
+                    <string>q_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₇</string>
+                    <key>shortcut</key>
+                    <string>r_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₇</string>
+                    <key>shortcut</key>
+                    <string>s_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₇</string>
+                    <key>shortcut</key>
+                    <string>t_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₇</string>
+                    <key>shortcut</key>
+                    <string>u_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₇</string>
+                    <key>shortcut</key>
+                    <string>v_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₇</string>
+                    <key>shortcut</key>
+                    <string>w_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₇</string>
+                    <key>shortcut</key>
+                    <string>x_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₇</string>
+                    <key>shortcut</key>
+                    <string>y_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₇</string>
+                    <key>shortcut</key>
+                    <string>z_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₇</string>
+                    <key>shortcut</key>
+                    <string>A_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₇</string>
+                    <key>shortcut</key>
+                    <string>B_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₇</string>
+                    <key>shortcut</key>
+                    <string>C_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₇</string>
+                    <key>shortcut</key>
+                    <string>D_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₇</string>
+                    <key>shortcut</key>
+                    <string>E_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₇</string>
+                    <key>shortcut</key>
+                    <string>F_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₇</string>
+                    <key>shortcut</key>
+                    <string>G_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₇</string>
+                    <key>shortcut</key>
+                    <string>H_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₇</string>
+                    <key>shortcut</key>
+                    <string>I_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₇</string>
+                    <key>shortcut</key>
+                    <string>J_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₇</string>
+                    <key>shortcut</key>
+                    <string>K_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₇</string>
+                    <key>shortcut</key>
+                    <string>L_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₇</string>
+                    <key>shortcut</key>
+                    <string>M_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₇</string>
+                    <key>shortcut</key>
+                    <string>N_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₇</string>
+                    <key>shortcut</key>
+                    <string>O_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₇</string>
+                    <key>shortcut</key>
+                    <string>P_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₇</string>
+                    <key>shortcut</key>
+                    <string>Q_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₇</string>
+                    <key>shortcut</key>
+                    <string>R_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₇</string>
+                    <key>shortcut</key>
+                    <string>S_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₇</string>
+                    <key>shortcut</key>
+                    <string>T_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₇</string>
+                    <key>shortcut</key>
+                    <string>U_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₇</string>
+                    <key>shortcut</key>
+                    <string>V_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₇</string>
+                    <key>shortcut</key>
+                    <string>W_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₇</string>
+                    <key>shortcut</key>
+                    <string>X_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₇</string>
+                    <key>shortcut</key>
+                    <string>Y_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₇</string>
+                    <key>shortcut</key>
+                    <string>Z_7</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₈</string>
+                    <key>shortcut</key>
+                    <string>a_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₈</string>
+                    <key>shortcut</key>
+                    <string>b_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₈</string>
+                    <key>shortcut</key>
+                    <string>c_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₈</string>
+                    <key>shortcut</key>
+                    <string>d_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₈</string>
+                    <key>shortcut</key>
+                    <string>e_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₈</string>
+                    <key>shortcut</key>
+                    <string>f_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₈</string>
+                    <key>shortcut</key>
+                    <string>g_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₈</string>
+                    <key>shortcut</key>
+                    <string>h_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₈</string>
+                    <key>shortcut</key>
+                    <string>i_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₈</string>
+                    <key>shortcut</key>
+                    <string>j_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₈</string>
+                    <key>shortcut</key>
+                    <string>k_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₈</string>
+                    <key>shortcut</key>
+                    <string>l_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₈</string>
+                    <key>shortcut</key>
+                    <string>m_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₈</string>
+                    <key>shortcut</key>
+                    <string>n_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₈</string>
+                    <key>shortcut</key>
+                    <string>o_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₈</string>
+                    <key>shortcut</key>
+                    <string>p_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₈</string>
+                    <key>shortcut</key>
+                    <string>q_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₈</string>
+                    <key>shortcut</key>
+                    <string>r_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₈</string>
+                    <key>shortcut</key>
+                    <string>s_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₈</string>
+                    <key>shortcut</key>
+                    <string>t_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₈</string>
+                    <key>shortcut</key>
+                    <string>u_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₈</string>
+                    <key>shortcut</key>
+                    <string>v_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₈</string>
+                    <key>shortcut</key>
+                    <string>w_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₈</string>
+                    <key>shortcut</key>
+                    <string>x_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₈</string>
+                    <key>shortcut</key>
+                    <string>y_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₈</string>
+                    <key>shortcut</key>
+                    <string>z_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₈</string>
+                    <key>shortcut</key>
+                    <string>A_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₈</string>
+                    <key>shortcut</key>
+                    <string>B_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₈</string>
+                    <key>shortcut</key>
+                    <string>C_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₈</string>
+                    <key>shortcut</key>
+                    <string>D_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₈</string>
+                    <key>shortcut</key>
+                    <string>E_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₈</string>
+                    <key>shortcut</key>
+                    <string>F_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₈</string>
+                    <key>shortcut</key>
+                    <string>G_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₈</string>
+                    <key>shortcut</key>
+                    <string>H_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₈</string>
+                    <key>shortcut</key>
+                    <string>I_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₈</string>
+                    <key>shortcut</key>
+                    <string>J_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₈</string>
+                    <key>shortcut</key>
+                    <string>K_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₈</string>
+                    <key>shortcut</key>
+                    <string>L_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₈</string>
+                    <key>shortcut</key>
+                    <string>M_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₈</string>
+                    <key>shortcut</key>
+                    <string>N_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₈</string>
+                    <key>shortcut</key>
+                    <string>O_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₈</string>
+                    <key>shortcut</key>
+                    <string>P_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₈</string>
+                    <key>shortcut</key>
+                    <string>Q_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₈</string>
+                    <key>shortcut</key>
+                    <string>R_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₈</string>
+                    <key>shortcut</key>
+                    <string>S_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₈</string>
+                    <key>shortcut</key>
+                    <string>T_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₈</string>
+                    <key>shortcut</key>
+                    <string>U_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₈</string>
+                    <key>shortcut</key>
+                    <string>V_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₈</string>
+                    <key>shortcut</key>
+                    <string>W_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₈</string>
+                    <key>shortcut</key>
+                    <string>X_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₈</string>
+                    <key>shortcut</key>
+                    <string>Y_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₈</string>
+                    <key>shortcut</key>
+                    <string>Z_8</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>a₉</string>
+                    <key>shortcut</key>
+                    <string>a_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>b₉</string>
+                    <key>shortcut</key>
+                    <string>b_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>c₉</string>
+                    <key>shortcut</key>
+                    <string>c_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>d₉</string>
+                    <key>shortcut</key>
+                    <string>d_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>e₉</string>
+                    <key>shortcut</key>
+                    <string>e_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>f₉</string>
+                    <key>shortcut</key>
+                    <string>f_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>g₉</string>
+                    <key>shortcut</key>
+                    <string>g_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>h₉</string>
+                    <key>shortcut</key>
+                    <string>h_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>i₉</string>
+                    <key>shortcut</key>
+                    <string>i_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>j₉</string>
+                    <key>shortcut</key>
+                    <string>j_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>k₉</string>
+                    <key>shortcut</key>
+                    <string>k_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>l₉</string>
+                    <key>shortcut</key>
+                    <string>l_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>m₉</string>
+                    <key>shortcut</key>
+                    <string>m_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>n₉</string>
+                    <key>shortcut</key>
+                    <string>n_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>o₉</string>
+                    <key>shortcut</key>
+                    <string>o_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>p₉</string>
+                    <key>shortcut</key>
+                    <string>p_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>q₉</string>
+                    <key>shortcut</key>
+                    <string>q_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>r₉</string>
+                    <key>shortcut</key>
+                    <string>r_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>s₉</string>
+                    <key>shortcut</key>
+                    <string>s_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>t₉</string>
+                    <key>shortcut</key>
+                    <string>t_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>u₉</string>
+                    <key>shortcut</key>
+                    <string>u_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>v₉</string>
+                    <key>shortcut</key>
+                    <string>v_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>w₉</string>
+                    <key>shortcut</key>
+                    <string>w_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>x₉</string>
+                    <key>shortcut</key>
+                    <string>x_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>y₉</string>
+                    <key>shortcut</key>
+                    <string>y_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>z₉</string>
+                    <key>shortcut</key>
+                    <string>z_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>A₉</string>
+                    <key>shortcut</key>
+                    <string>A_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>B₉</string>
+                    <key>shortcut</key>
+                    <string>B_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>C₉</string>
+                    <key>shortcut</key>
+                    <string>C_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>D₉</string>
+                    <key>shortcut</key>
+                    <string>D_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>E₉</string>
+                    <key>shortcut</key>
+                    <string>E_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>F₉</string>
+                    <key>shortcut</key>
+                    <string>F_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>G₉</string>
+                    <key>shortcut</key>
+                    <string>G_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>H₉</string>
+                    <key>shortcut</key>
+                    <string>H_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>I₉</string>
+                    <key>shortcut</key>
+                    <string>I_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>J₉</string>
+                    <key>shortcut</key>
+                    <string>J_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>K₉</string>
+                    <key>shortcut</key>
+                    <string>K_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>L₉</string>
+                    <key>shortcut</key>
+                    <string>L_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>M₉</string>
+                    <key>shortcut</key>
+                    <string>M_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>N₉</string>
+                    <key>shortcut</key>
+                    <string>N_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>O₉</string>
+                    <key>shortcut</key>
+                    <string>O_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>P₉</string>
+                    <key>shortcut</key>
+                    <string>P_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Q₉</string>
+                    <key>shortcut</key>
+                    <string>Q_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>R₉</string>
+                    <key>shortcut</key>
+                    <string>R_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>S₉</string>
+                    <key>shortcut</key>
+                    <string>S_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>T₉</string>
+                    <key>shortcut</key>
+                    <string>T_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>U₉</string>
+                    <key>shortcut</key>
+                    <string>U_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>V₉</string>
+                    <key>shortcut</key>
+                    <string>V_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>W₉</string>
+                    <key>shortcut</key>
+                    <string>W_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>X₉</string>
+                    <key>shortcut</key>
+                    <string>X_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Y₉</string>
+                    <key>shortcut</key>
+                    <string>Y_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Z₉</string>
+                    <key>shortcut</key>
+                    <string>Z_9</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>aₘ</string>
+                    <key>shortcut</key>
+                    <string>a_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>bₘ</string>
+                    <key>shortcut</key>
+                    <string>b_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>cₘ</string>
+                    <key>shortcut</key>
+                    <string>c_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>dₘ</string>
+                    <key>shortcut</key>
+                    <string>d_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>eₘ</string>
+                    <key>shortcut</key>
+                    <string>e_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>fₘ</string>
+                    <key>shortcut</key>
+                    <string>f_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>gₘ</string>
+                    <key>shortcut</key>
+                    <string>g_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>hₘ</string>
+                    <key>shortcut</key>
+                    <string>h_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>iₘ</string>
+                    <key>shortcut</key>
+                    <string>i_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>jₘ</string>
+                    <key>shortcut</key>
+                    <string>j_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>kₘ</string>
+                    <key>shortcut</key>
+                    <string>k_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>lₘ</string>
+                    <key>shortcut</key>
+                    <string>l_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>mₘ</string>
+                    <key>shortcut</key>
+                    <string>m_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>nₘ</string>
+                    <key>shortcut</key>
+                    <string>n_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>oₘ</string>
+                    <key>shortcut</key>
+                    <string>o_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>pₘ</string>
+                    <key>shortcut</key>
+                    <string>p_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>qₘ</string>
+                    <key>shortcut</key>
+                    <string>q_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>rₘ</string>
+                    <key>shortcut</key>
+                    <string>r_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>sₘ</string>
+                    <key>shortcut</key>
+                    <string>s_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>tₘ</string>
+                    <key>shortcut</key>
+                    <string>t_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>uₘ</string>
+                    <key>shortcut</key>
+                    <string>u_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>vₘ</string>
+                    <key>shortcut</key>
+                    <string>v_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>wₘ</string>
+                    <key>shortcut</key>
+                    <string>w_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>xₘ</string>
+                    <key>shortcut</key>
+                    <string>x_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>yₘ</string>
+                    <key>shortcut</key>
+                    <string>y_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>zₘ</string>
+                    <key>shortcut</key>
+                    <string>z_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Aₘ</string>
+                    <key>shortcut</key>
+                    <string>A_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Bₘ</string>
+                    <key>shortcut</key>
+                    <string>B_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Cₘ</string>
+                    <key>shortcut</key>
+                    <string>C_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Dₘ</string>
+                    <key>shortcut</key>
+                    <string>D_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Eₘ</string>
+                    <key>shortcut</key>
+                    <string>E_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Fₘ</string>
+                    <key>shortcut</key>
+                    <string>F_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Gₘ</string>
+                    <key>shortcut</key>
+                    <string>G_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Hₘ</string>
+                    <key>shortcut</key>
+                    <string>H_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Iₘ</string>
+                    <key>shortcut</key>
+                    <string>I_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Jₘ</string>
+                    <key>shortcut</key>
+                    <string>J_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Kₘ</string>
+                    <key>shortcut</key>
+                    <string>K_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Lₘ</string>
+                    <key>shortcut</key>
+                    <string>L_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Mₘ</string>
+                    <key>shortcut</key>
+                    <string>M_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Nₘ</string>
+                    <key>shortcut</key>
+                    <string>N_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Oₘ</string>
+                    <key>shortcut</key>
+                    <string>O_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Pₘ</string>
+                    <key>shortcut</key>
+                    <string>P_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Qₘ</string>
+                    <key>shortcut</key>
+                    <string>Q_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Rₘ</string>
+                    <key>shortcut</key>
+                    <string>R_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Sₘ</string>
+                    <key>shortcut</key>
+                    <string>S_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Tₘ</string>
+                    <key>shortcut</key>
+                    <string>T_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Uₘ</string>
+                    <key>shortcut</key>
+                    <string>U_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Vₘ</string>
+                    <key>shortcut</key>
+                    <string>V_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Wₘ</string>
+                    <key>shortcut</key>
+                    <string>W_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Xₘ</string>
+                    <key>shortcut</key>
+                    <string>X_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Yₘ</string>
+                    <key>shortcut</key>
+                    <string>Y_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Zₘ</string>
+                    <key>shortcut</key>
+                    <string>Z_m</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>aₙ</string>
+                    <key>shortcut</key>
+                    <string>a_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>bₙ</string>
+                    <key>shortcut</key>
+                    <string>b_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>cₙ</string>
+                    <key>shortcut</key>
+                    <string>c_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>dₙ</string>
+                    <key>shortcut</key>
+                    <string>d_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>eₙ</string>
+                    <key>shortcut</key>
+                    <string>e_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>fₙ</string>
+                    <key>shortcut</key>
+                    <string>f_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>gₙ</string>
+                    <key>shortcut</key>
+                    <string>g_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>hₙ</string>
+                    <key>shortcut</key>
+                    <string>h_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>iₙ</string>
+                    <key>shortcut</key>
+                    <string>i_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>jₙ</string>
+                    <key>shortcut</key>
+                    <string>j_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>kₙ</string>
+                    <key>shortcut</key>
+                    <string>k_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>lₙ</string>
+                    <key>shortcut</key>
+                    <string>l_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>mₙ</string>
+                    <key>shortcut</key>
+                    <string>m_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>nₙ</string>
+                    <key>shortcut</key>
+                    <string>n_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>oₙ</string>
+                    <key>shortcut</key>
+                    <string>o_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>pₙ</string>
+                    <key>shortcut</key>
+                    <string>p_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>qₙ</string>
+                    <key>shortcut</key>
+                    <string>q_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>rₙ</string>
+                    <key>shortcut</key>
+                    <string>r_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>sₙ</string>
+                    <key>shortcut</key>
+                    <string>s_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>tₙ</string>
+                    <key>shortcut</key>
+                    <string>t_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>uₙ</string>
+                    <key>shortcut</key>
+                    <string>u_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>vₙ</string>
+                    <key>shortcut</key>
+                    <string>v_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>wₙ</string>
+                    <key>shortcut</key>
+                    <string>w_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>xₙ</string>
+                    <key>shortcut</key>
+                    <string>x_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>yₙ</string>
+                    <key>shortcut</key>
+                    <string>y_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>zₙ</string>
+                    <key>shortcut</key>
+                    <string>z_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Aₙ</string>
+                    <key>shortcut</key>
+                    <string>A_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Bₙ</string>
+                    <key>shortcut</key>
+                    <string>B_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Cₙ</string>
+                    <key>shortcut</key>
+                    <string>C_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Dₙ</string>
+                    <key>shortcut</key>
+                    <string>D_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Eₙ</string>
+                    <key>shortcut</key>
+                    <string>E_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Fₙ</string>
+                    <key>shortcut</key>
+                    <string>F_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Gₙ</string>
+                    <key>shortcut</key>
+                    <string>G_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Hₙ</string>
+                    <key>shortcut</key>
+                    <string>H_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Iₙ</string>
+                    <key>shortcut</key>
+                    <string>I_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Jₙ</string>
+                    <key>shortcut</key>
+                    <string>J_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Kₙ</string>
+                    <key>shortcut</key>
+                    <string>K_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Lₙ</string>
+                    <key>shortcut</key>
+                    <string>L_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Mₙ</string>
+                    <key>shortcut</key>
+                    <string>M_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Nₙ</string>
+                    <key>shortcut</key>
+                    <string>N_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Oₙ</string>
+                    <key>shortcut</key>
+                    <string>O_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Pₙ</string>
+                    <key>shortcut</key>
+                    <string>P_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Qₙ</string>
+                    <key>shortcut</key>
+                    <string>Q_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Rₙ</string>
+                    <key>shortcut</key>
+                    <string>R_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Sₙ</string>
+                    <key>shortcut</key>
+                    <string>S_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Tₙ</string>
+                    <key>shortcut</key>
+                    <string>T_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Uₙ</string>
+                    <key>shortcut</key>
+                    <string>U_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Vₙ</string>
+                    <key>shortcut</key>
+                    <string>V_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Wₙ</string>
+                    <key>shortcut</key>
+                    <string>W_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Xₙ</string>
+                    <key>shortcut</key>
+                    <string>X_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Yₙ</string>
+                    <key>shortcut</key>
+                    <string>Y_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Zₙ</string>
+                    <key>shortcut</key>
+                    <string>Z_n</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>aᵢ</string>
+                    <key>shortcut</key>
+                    <string>a_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>bᵢ</string>
+                    <key>shortcut</key>
+                    <string>b_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>cᵢ</string>
+                    <key>shortcut</key>
+                    <string>c_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>dᵢ</string>
+                    <key>shortcut</key>
+                    <string>d_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>eᵢ</string>
+                    <key>shortcut</key>
+                    <string>e_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>fᵢ</string>
+                    <key>shortcut</key>
+                    <string>f_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>gᵢ</string>
+                    <key>shortcut</key>
+                    <string>g_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>hᵢ</string>
+                    <key>shortcut</key>
+                    <string>h_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>iᵢ</string>
+                    <key>shortcut</key>
+                    <string>i_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>jᵢ</string>
+                    <key>shortcut</key>
+                    <string>j_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>kᵢ</string>
+                    <key>shortcut</key>
+                    <string>k_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>lᵢ</string>
+                    <key>shortcut</key>
+                    <string>l_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>mᵢ</string>
+                    <key>shortcut</key>
+                    <string>m_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>nᵢ</string>
+                    <key>shortcut</key>
+                    <string>n_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>oᵢ</string>
+                    <key>shortcut</key>
+                    <string>o_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>pᵢ</string>
+                    <key>shortcut</key>
+                    <string>p_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>qᵢ</string>
+                    <key>shortcut</key>
+                    <string>q_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>rᵢ</string>
+                    <key>shortcut</key>
+                    <string>r_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>sᵢ</string>
+                    <key>shortcut</key>
+                    <string>s_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>tᵢ</string>
+                    <key>shortcut</key>
+                    <string>t_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>uᵢ</string>
+                    <key>shortcut</key>
+                    <string>u_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>vᵢ</string>
+                    <key>shortcut</key>
+                    <string>v_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>wᵢ</string>
+                    <key>shortcut</key>
+                    <string>w_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>xᵢ</string>
+                    <key>shortcut</key>
+                    <string>x_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>yᵢ</string>
+                    <key>shortcut</key>
+                    <string>y_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>zᵢ</string>
+                    <key>shortcut</key>
+                    <string>z_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Aᵢ</string>
+                    <key>shortcut</key>
+                    <string>A_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Bᵢ</string>
+                    <key>shortcut</key>
+                    <string>B_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Cᵢ</string>
+                    <key>shortcut</key>
+                    <string>C_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Dᵢ</string>
+                    <key>shortcut</key>
+                    <string>D_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Eᵢ</string>
+                    <key>shortcut</key>
+                    <string>E_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Fᵢ</string>
+                    <key>shortcut</key>
+                    <string>F_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Gᵢ</string>
+                    <key>shortcut</key>
+                    <string>G_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Hᵢ</string>
+                    <key>shortcut</key>
+                    <string>H_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Iᵢ</string>
+                    <key>shortcut</key>
+                    <string>I_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Jᵢ</string>
+                    <key>shortcut</key>
+                    <string>J_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Kᵢ</string>
+                    <key>shortcut</key>
+                    <string>K_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Lᵢ</string>
+                    <key>shortcut</key>
+                    <string>L_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Mᵢ</string>
+                    <key>shortcut</key>
+                    <string>M_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Nᵢ</string>
+                    <key>shortcut</key>
+                    <string>N_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Oᵢ</string>
+                    <key>shortcut</key>
+                    <string>O_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Pᵢ</string>
+                    <key>shortcut</key>
+                    <string>P_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Qᵢ</string>
+                    <key>shortcut</key>
+                    <string>Q_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Rᵢ</string>
+                    <key>shortcut</key>
+                    <string>R_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Sᵢ</string>
+                    <key>shortcut</key>
+                    <string>S_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Tᵢ</string>
+                    <key>shortcut</key>
+                    <string>T_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Uᵢ</string>
+                    <key>shortcut</key>
+                    <string>U_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Vᵢ</string>
+                    <key>shortcut</key>
+                    <string>V_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Wᵢ</string>
+                    <key>shortcut</key>
+                    <string>W_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Xᵢ</string>
+                    <key>shortcut</key>
+                    <string>X_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Yᵢ</string>
+                    <key>shortcut</key>
+                    <string>Y_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>Zᵢ</string>
+                    <key>shortcut</key>
+                    <string>Z_i</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⟩</string>
+                    <key>shortcut</key>
+                    <string>\rangle</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⟩</string>
+                    <key>shortcut</key>
+                    <string>\rang</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⟨</string>
+                    <key>shortcut</key>
+                    <string>\langle</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>⟨</string>
+                    <key>shortcut</key>
+                    <string>\lang</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>(☞ ͡ ͜ʖ ͡ )☞</string>
+                    <key>shortcut</key>
+                    <string>hap</string>
+                    </dict>
+<dict>
+                    <key>phrase</key>
+                    <string>>inb4</string>
+                    <key>shortcut</key>
+                    <string>z</string>
+                    </dict>
+</array>
+                </plist>
